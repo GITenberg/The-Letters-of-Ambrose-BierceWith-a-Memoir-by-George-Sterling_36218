@@ -1,0 +1,43 @@
+_repo: The-Letters-of-Ambrose-BierceWith-a-Memoir-by-George-Sterling_36218
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Sterling, George
+    birthdate: 1869
+    deathdate: 1926
+    gutenberg_agent_id: '35120'
+    url: http://www.gutenberg.org/2009/agents/35120
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/44231
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+  editor:
+    agent_name: Pope, Bertha Clark
+    gutenberg_agent_id: '38146'
+    url: http://www.gutenberg.org/2009/agents/38146
+description: ''
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36218'
+  lccn: '23007856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bierce, Ambrose, 1842-1914? -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Bierce, Ambrose, 1842-1914?'
+title: The Letters of Ambrose Bierce, With a Memoir by George Sterling
+url: http://www.gutenberg.org/ebooks/36218
