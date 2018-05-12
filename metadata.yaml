@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '38146'
     url: http://www.gutenberg.org/2009/agents/38146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36218#The-Letters-of-Ambrose-BierceWith-a-Memoir-by-George-Sterling
 gutenberg_issued: '2011-05-25'
 gutenberg_type: Text
 identifiers:
